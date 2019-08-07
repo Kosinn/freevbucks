@@ -1,0 +1,1 @@
+alert("Sa oled neeger");
