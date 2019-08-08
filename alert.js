@@ -1,1 +1,1 @@
-alert("Sa oled neeger");
+alert("uuga buuga nibba nibba");
