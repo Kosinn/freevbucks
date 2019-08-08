@@ -4,18 +4,18 @@
 
 .left {
     width: 30vw;
-    height: 150vh;
+    height: 98vh;
 }
 
 .video-div {
     flex-grow:1;
     width: 68vw;
-    height: 150vh;
+    height: 98vh;
 }
 
 .video {
     flex-grow: 1;
     width: 68vw;
-    height: 150vh;
+    height: 98vh;
     overflow: auto;
 }
